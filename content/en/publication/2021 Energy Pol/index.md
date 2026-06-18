@@ -23,10 +23,10 @@ date: "2024"
 doi: "10.1016/j.enpol.2020.112111"
 
 
-add_badge: true
+add_badge: false
 
 
-featured: true
+featured: false
 
 
 external_link: "https://www.sciencedirect.com/science/article/abs/pii/S0301421520308223"
