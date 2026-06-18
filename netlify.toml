@@ -85,11 +85,11 @@
 [[headers]]
   for = "/*"
   [headers.values]
-   Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
-     CSP — enforced 2026-04-16
-    
-     Allowed origins (full site scan):
-       Scripts: cdnjs.cloudflare.com, cdn.jsdelivr.net (MathJax), d1bxh8uas1mnw7.cloudfront.net (Altmetric),
+    Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
+    # CSP — enforced 2026-04-16
+    #
+    # Allowed origins (full site scan):
+    #   Scripts: cdnjs.cloudflare.com, cdn.jsdelivr.net (MathJax), d1bxh8uas1mnw7.cloudfront.net (Altmetric),
     #            badge.dimensions.ai, www.googletagmanager.com (GTM), www.google-analytics.com (GA via GTM),
     #            embed.altmetric.com (badge runtime JS), identity.netlify.com, maps.googleapis.com
     #   Styles:  cdnjs.cloudflare.com, fonts.googleapis.com, badge.dimensions.ai (badge.css)
