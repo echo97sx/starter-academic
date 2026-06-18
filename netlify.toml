@@ -82,10 +82,10 @@
   [headers.values]
     X-Robots-Tag = "noindex"
 
-[[headers]]
-  for = "/*"
-  [headers.values]
-    Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
+#[[headers]]
+#  for = "/*"
+#  [headers.values]
+ #   Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
     # CSP — enforced 2026-04-16
     #
     # Allowed origins (full site scan):

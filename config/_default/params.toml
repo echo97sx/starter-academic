@@ -88,23 +88,24 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "remi.theriault at nyu.edu"
-phone = "Three-Three-Two 400 6781"
+email = "s.xiong at nyu.edu"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "6 Washington Place", city = "New York", region = "New York", postcode = "10003", country = "USA", country_code = "US"}
+# address = {street = "6 Washington Place", city = "New York", region = "New York", postcode = "10003", country = "USA", country_code = "US"}
+address = ""
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.72935447774295", longitude = "-73.99440764748589"}
+coordinates = ""
 
 # Directions for visitors to locate you.
-directions = "Office 535 (5th floor), Meyer Hall. Take the elevator to the 5th floor, turn right, my office will be to your right."
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-# office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
@@ -127,7 +128,7 @@ directions = "Office 535 (5th floor), Meyer Hall. Take the elevator to the 5th f
 sharing_image = "avatar.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "rempsyc"
+#twitter = "rempsyc"
 
 ############################
 ## Regional Settings

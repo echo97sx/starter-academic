@@ -29,9 +29,9 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "osf"
+  icon = "txt"
   icon_pack = "ai"
-  name = "Open Science"
+  name = "Text Analysis"
   description = ""
 
 # Uncomment to use emoji icons.
