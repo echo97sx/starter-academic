@@ -1,3 +1,5 @@
+
+
 +++
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -29,9 +31,9 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "osf"
-  icon_pack = "ai"
-  name = "Open Science"
+  icon = "txt"
+  icon_pack = "custom"
+  name = "Text Analysis"
   description = ""
 
 # Uncomment to use emoji icons.
@@ -49,5 +51,8 @@ subtitle = ""
 #  icon_pack = "custom"
 #  name = "Surfing"
 #  description = "90%"
+
++++
+
 
 +++
