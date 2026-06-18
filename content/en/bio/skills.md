@@ -28,11 +28,11 @@ subtitle = ""
   name = "Statistics"
   description = ""  
   
-[[feature]]
-  icon = "txt"
-  icon_pack = "ai"
-  name = "Text Analysis"
-  description = ""
+# [[feature]]
+#   icon = "txt"
+#   icon_pack = "ai"
+#   name = "Text Analysis"
+#   description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
