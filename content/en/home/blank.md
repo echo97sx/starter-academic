@@ -8,7 +8,7 @@ design:
 
 <div class="home-hero">
   <div>
-    <h1>RÉMI THÉRIAULT, Ph.D.</h1>
-    <p>A postdoc's journey to making a difference in the world, one mind at a time</p>
+    <h1>Sherry Rui Xiong</h1>
+    <p>Learner and Researcher in the Science of Motivation</p>
   </div>
 </div>
