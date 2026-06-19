@@ -31,7 +31,7 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "file-lines"
+  icon = "file-alt"
   icon_pack = "fas"
   name = "Text Analysis"
   description = ""
