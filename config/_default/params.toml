@@ -45,7 +45,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-# org_name = "Université du Québec à Montréal"
+org_name = "Université du Québec à Montréal"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -88,24 +88,23 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "s.xiong at nyu.edu"
-phone = ""
+email = "remi.theriault at nyu.edu"
+phone = "Three-Three-Two 400 6781"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-# address = {street = "6 Washington Place", city = "New York", region = "New York", postcode = "10003", country = "USA", country_code = "US"}
-address = ""
+address = {street = "6 Washington Place", city = "New York", region = "New York", postcode = "10003", country = "USA", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = ""
+coordinates = {latitude = "40.72935447774295", longitude = "-73.99440764748589"}
 
 # Directions for visitors to locate you.
-directions = ""
+directions = "Office 535 (5th floor), Meyer Hall. Take the elevator to the 5th floor, turn right, my office will be to your right."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ""
+# office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
@@ -128,7 +127,7 @@ office_hours = ""
 sharing_image = "avatar.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-#twitter = "rempsyc"
+twitter = "rempsyc"
 
 ############################
 ## Regional Settings
@@ -148,7 +147,7 @@ address_format = "en-us"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "l", show_logo = true, highlight_active_link = true, show_language = false, show_translations = true}
+main_menu = {align = "l", show_logo = true, highlight_active_link = true, show_language = true, show_translations = true}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
@@ -168,7 +167,7 @@ copyright_license = {enable = false, allow_derivatives = false, share_alike = tr
 highlight_superuser = true
 
 # Link authors to their profile page? (true/false)
-link_authors = false
+link_authors = true
 
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
 abstract_length = 135
