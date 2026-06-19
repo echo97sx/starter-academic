@@ -31,10 +31,11 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "txt"
-  icon_pack = "custom"
+  icon = "file-lines"
+  icon_pack = "fas"
   name = "Text Analysis"
   description = ""
+  
 
 # Uncomment to use emoji icons.
 # [[feature]]
