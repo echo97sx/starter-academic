@@ -71,7 +71,7 @@ email: ""
 
 ---
 
-Sherry Xiong is currently a PhD student in Social Psychology at [New York University][def1], working with [Emily Balcetis][def] (primary advisor), [Peter Gollwitzer and Gabriele Oettingen][def2] (secondary advisors). Her research interests relate to motivation science broadly. In one line of research, she studies the motives underlying faking emotions in social interactions, and their implications for felt authenticity. In another line of research, she investigates the motivational consequences of approaching the ending of a period of time, and how to achieve a sense of psychological closure in such situations.  
+Hi! I'm currently a PhD student in Social Psychology at [New York University][def1], working with [Emily Balcetis][def], [Peter Gollwitzer and Gabriele Oettingen][def2]. My research interests relate to motivation science broadly. In one line of research, I study the motives underlying faking emotions in social interactions, and their implications for felt authenticity. In another line of research, I investigate the motivational consequences of approaching the ending of a period of time, and how to achieve a sense of psychological closure in such situations.  
 
 [def]: https://www.spamlabresearch.com/
 [def1]: https://as.nyu.edu/departments/psychology/graduate/phd-social-psychology.html?challenge=d06e90d7-4d8f-4b88-9d8c-10b73beb60f1
