@@ -19,16 +19,15 @@ publication_types:
 
 # Show publication and sharing statistics? (requires valid doi)
 
-date: "2024"
-
+date: "2024-03-08T00:00:00-04:00"
 
 doi: "10.1080/0144929X.2024.2439528"
 
 
-add_badge: true
+add_badge: false
 
 
-featured: true
+featured: false
 
 
 external_link: "https://www.tandfonline.com/doi/full/10.1080/0144929X.2024.2439528"
