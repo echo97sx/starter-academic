@@ -7,14 +7,6 @@
   languageCode = "en-us"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
-[fr]
-  languageCode = "fr"
-  contentDir = "content/fr"
-  [fr.params]
-    email = "remi.theriault à nyu.edu"
-    phone = "Trois-trois-deux 400 6781"
-    address = {street = "6 Washington Place", city = "New York", region = "New York", postcode = "10003", country = "États-Unis", country_code = "US"}
-    directions = "Bureau 535 (5e étage), Meyer Hall. Prenez l'ascenseur jusqu'au 5e étage, tournez à droite, mon bureau sera à votre droite."
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]

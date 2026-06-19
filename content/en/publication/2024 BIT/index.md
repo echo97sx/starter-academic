@@ -24,10 +24,10 @@ date: "2024-03-08T00:00:00-04:00"
 doi: "10.1080/0144929X.2024.2439528"
 
 
-add_badge: false
+add_badge: true
 
 
-featured: false
+featured: true
 
 
 external_link: "https://www.tandfonline.com/doi/full/10.1080/0144929X.2024.2439528"
